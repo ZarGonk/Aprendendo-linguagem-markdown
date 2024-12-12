@@ -69,3 +69,7 @@ print('\nOLHA EXLOSÂO\nQUANDO ELA BATE COM A BUNDA NO CHÃO')
 🐈‍⬛
 🥇
 
+Marcando pessoas:
+@ZarGonk
+
+
