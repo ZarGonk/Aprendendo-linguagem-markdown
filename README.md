@@ -45,5 +45,27 @@ Lista de Tarefas:
 
 [Acesse meu GitHub](https://github.com/ZarGonk)
 
+### Tabelas
 
+Num | Nome | Nota
+---|---|---
+0|Gustavo|9,5
+
+Identificando Comando
+
+O que o comando `printf()` faz na linguagem C
+
+Trecho do codigo
+``` from time import sleep
+for i in range(10, -1, -1):
+  print('{} ...'.format(i))
+  sleep(0.5)
+print('\nOLHA EXLOSÂO\nQUANDO ELA BATE COM A BUNDA NO CHÃO')
+```
+
+### Emojis
+
+🖖
+🐈‍⬛
+🥇
 
