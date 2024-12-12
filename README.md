@@ -3,7 +3,7 @@
 
 # Testando a linguagem _Markdown_
 
-Teste 1 Escrita
+### Teste 1 Escrita
 - **Negrito**
 - *Itálico*
 - ~~Riscado~~
@@ -13,7 +13,7 @@ Teste 2 Titulos
 ## Título
 ### Título
 ---
-Teste 3 Mistura
+### Teste 3 Mistura
 
 __*Itálico, Negrito*__
 ### ~~Riscado,Título~~
@@ -38,20 +38,22 @@ Lista de Tarefas:
 - [ ] Afazer 0
 - [ ] Afazer 1
 - [x] Afazer 2
-
+---
 ### Imagens e Links:
 
 ![test](https://github.com/user-attachments/assets/6e7779b8-5cfb-4877-bc2f-0d0e9e1dc1f3)
 
 [Acesse meu GitHub](https://github.com/ZarGonk)
 
+---
 ### Tabelas
 
 Num | Nome | Nota
 ---|---|---
 0|Gustavo|9,5
 
-Identificando Comando
+---
+### Identificando Comando
 
 O que o comando `printf()` faz na linguagem C
 
@@ -62,13 +64,14 @@ for i in range(10, -1, -1):
   sleep(0.5)
 print('\nOLHA EXLOSÂO\nQUANDO ELA BATE COM A BUNDA NO CHÃO')
 ```
-
+---
 ### Emojis
 
 🖖
 🐈‍⬛
 🥇
 
+---
 Marcando pessoas:
 @ZarGonk
 
