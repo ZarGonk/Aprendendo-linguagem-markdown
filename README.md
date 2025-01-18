@@ -1,5 +1,5 @@
-# Curso de Git E GitHub
- Aprendendo linguagem markdown 
+# Aprendendo linguagem markdown
+Curso de Git E GitHub(Canal Curso em video)
 
 # Testando a linguagem _Markdown_
 
